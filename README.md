@@ -1,6 +1,6 @@
 # Chusi Print
 
-**Toner cartridges, copier toner, ink and 3D printing filament — supplied from Zhuhai, China.**
+**Toner cartridges, copier toner, ink and drum units — supplied from Zhuhai, China.**
 
 B2B consumables supplier to distributors, remanufacturers and office-supply resellers.
 15 years in the imaging industry, 7,200+ SKUs across 25 printer brands, with OEM / ODM
@@ -42,7 +42,8 @@ Licensed **CC BY 4.0** — free for commercial use with attribution.
 | Toner cartridges | Mono & colour, with chip / without chip, standard & high yield |
 | Copier toner | Kyocera, Ricoh, Canon, Sharp, Konica Minolta, Toshiba |
 | Ink & ink cartridges | Desktop inkjet, CISS, bulk ink |
-| 3D printing filament | PLA, PETG, ABS, TPU — 1.75 mm |
+| EcoTank ink bottles | Epson 664 / 004 / 522 / 502 series, pigment & dye |
+| Drum units & maintenance boxes | Brother DR, HP CF, Epson waste ink boxes |
 
 Private label, custom packaging, retail-ready cartons and OEM programmes available.
 
