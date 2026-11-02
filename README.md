@@ -28,7 +28,7 @@ No sign-up, no email gate.
 
 ### Open dataset
 
-4,512 cartridge families × 4,763 printer models, as CSV (Excel-ready) and JSON.
+4,512 cartridge families × 4,795 printer models, as CSV (Excel-ready) and JSON.
 Licensed **CC BY 4.0** — free for commercial use with attribution.
 
 **→ [chusi1818/toner-cross-reference-data](https://github.com/chusi1818/toner-cross-reference-data)**
